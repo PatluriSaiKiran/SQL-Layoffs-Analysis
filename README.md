@@ -12,7 +12,7 @@ The goal was to clean the dataset, explore trends, and generate insights.
 - Window Functions (RANK, DENSE_RANK, PARTITION BY)
 
 ## 📂 Files
-[ Click here to view my SQL Queries](sql_queries.sql)
+[ Click here to view my SQL Queries](sql queries.sql)
 
 
 ## 🚀 Key Insights
