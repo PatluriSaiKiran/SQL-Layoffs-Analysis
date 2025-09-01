@@ -12,7 +12,8 @@ The goal was to clean the dataset, explore trends, and generate insights.
 - Window Functions (RANK, DENSE_RANK, PARTITION BY)
 
 ## 📂 Files
-[ View SQL QUeries here] (sql queries)
+[ Click here to view my SQL Queries](world_layoffs.sql)
+
 
 ## 🚀 Key Insights
 - Tech industry had the highest layoffs in 2022–2023.
