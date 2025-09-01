@@ -11,6 +11,8 @@ The goal was to clean the dataset, explore trends, and generate insights.
 - Common Table Expressions (CTEs)
 - Window Functions (RANK, DENSE_RANK, PARTITION BY)
 
+## file 
+ [view sql queries) (https://github.com/PatluriSaiKiran/SQL-Layoffs-Analysis/blob/main/sql%20queries.sql)
 
 ## 🚀 Key Insights
 - Tech industry had the highest layoffs in 2022–2023.
